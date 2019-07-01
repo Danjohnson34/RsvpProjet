@@ -1,2 +1,0 @@
-# RsvpProjet
-RSVPProject
